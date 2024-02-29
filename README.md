@@ -12,13 +12,13 @@ Eliminates Installation: Avoid the hassle of installing multiple software packag
 Accessibility: Accessible from any device with an internet connection, including mobile devices, making it convenient for users on-the-go.
 By leveraging the Online Code Runner, developers can quickly test code snippets, debug algorithms, or prototype ideas without the overhead of setting up local development environments. Whether you're a beginner learning to code or an experienced developer needing a quick solution, the Online Code Runner provides a seamless and efficient way to execute code online.
 
-*Landing Page*
+###Landing Page
 ![Landing page](https://github.com/Aji-Rawat/online-code/blob/main/Assets/1.jpg)
 
-*C++ Code*
+###C++ Code
 ![C++ code](https://github.com/Aji-Rawat/online-code/blob/main/Assets/2.0.jpg)
 
-*Python Code*
+###Python Code
 ![Python code](https://github.com/Aji-Rawat/online-code/blob/main/Assets/2.jpg)
 
 ## Features
